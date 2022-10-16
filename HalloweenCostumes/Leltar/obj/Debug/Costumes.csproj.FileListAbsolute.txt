@@ -1,0 +1,21 @@
+C:\Users\Sarah\Desktop\HalloweenCostumes\HalloweenCostumes\Leltar\bin\Debug\Leltar.exe.config
+C:\Users\Sarah\Desktop\HalloweenCostumes\HalloweenCostumes\Leltar\bin\Debug\Leltar.exe
+C:\Users\Sarah\Desktop\HalloweenCostumes\HalloweenCostumes\Leltar\bin\Debug\Leltar.pdb
+C:\Users\Sarah\Desktop\HalloweenCostumes\HalloweenCostumes\Leltar\obj\Debug\Costumes.csproj.AssemblyReference.cache
+C:\Users\Sarah\Desktop\HalloweenCostumes\HalloweenCostumes\Leltar\obj\Debug\Leltar.Form1.resources
+C:\Users\Sarah\Desktop\HalloweenCostumes\HalloweenCostumes\Leltar\obj\Debug\Leltar.Properties.Resources.resources
+C:\Users\Sarah\Desktop\HalloweenCostumes\HalloweenCostumes\Leltar\obj\Debug\Costumes.csproj.GenerateResource.cache
+C:\Users\Sarah\Desktop\HalloweenCostumes\HalloweenCostumes\Leltar\obj\Debug\Costumes.csproj.CoreCompileInputs.cache
+C:\Users\Sarah\Desktop\HalloweenCostumes\HalloweenCostumes\Leltar\obj\Debug\Leltar.exe
+C:\Users\Sarah\Desktop\HalloweenCostumes\HalloweenCostumes\Leltar\obj\Debug\Leltar.pdb
+C:\Users\hodos\OneDrive\Asztali gép\halloween-costumes-main\halloween-costumes-main\HalloweenCostumes\Leltar\bin\Debug\Leltar.exe.config
+C:\Users\hodos\OneDrive\Asztali gép\halloween-costumes-main\halloween-costumes-main\HalloweenCostumes\Leltar\bin\Debug\Leltar.exe
+C:\Users\hodos\OneDrive\Asztali gép\halloween-costumes-main\halloween-costumes-main\HalloweenCostumes\Leltar\bin\Debug\Leltar.pdb
+C:\Users\hodos\OneDrive\Asztali gép\halloween-costumes-main\halloween-costumes-main\HalloweenCostumes\Leltar\obj\Debug\Costumes.csproj.AssemblyReference.cache
+C:\Users\hodos\OneDrive\Asztali gép\halloween-costumes-main\halloween-costumes-main\HalloweenCostumes\Leltar\obj\Debug\Costumes.csproj.SuggestedBindingRedirects.cache
+C:\Users\hodos\OneDrive\Asztali gép\halloween-costumes-main\halloween-costumes-main\HalloweenCostumes\Leltar\obj\Debug\Leltar.Properties.Resources.resources
+C:\Users\hodos\OneDrive\Asztali gép\halloween-costumes-main\halloween-costumes-main\HalloweenCostumes\Leltar\obj\Debug\Costumes.csproj.GenerateResource.cache
+C:\Users\hodos\OneDrive\Asztali gép\halloween-costumes-main\halloween-costumes-main\HalloweenCostumes\Leltar\obj\Debug\Costumes.csproj.CoreCompileInputs.cache
+C:\Users\hodos\OneDrive\Asztali gép\halloween-costumes-main\halloween-costumes-main\HalloweenCostumes\Leltar\obj\Debug\Leltar.exe
+C:\Users\hodos\OneDrive\Asztali gép\halloween-costumes-main\halloween-costumes-main\HalloweenCostumes\Leltar\obj\Debug\Leltar.pdb
+C:\Users\hodos\OneDrive\Asztali gép\halloween-costumes-main\halloween-costumes-main\HalloweenCostumes\Leltar\obj\Debug\Costumes.Form1.resources
